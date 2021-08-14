@@ -18,5 +18,5 @@ Linear Regression Model is used to predict home prices.
   <li>Matplotlib for Data Visualization</li>
   <li>Sklearn for Model Building</li>
   <li>Jupyter notebookand Pycharm as IDE</li>
-  <li>Python Flask for http server</li>
+  <li>Python Flask for HTTP server</li>
  </ol>
