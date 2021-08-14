@@ -2,7 +2,16 @@
 This project aims in creating a Machine Learning Model to find Home price estimate in Bengaluru based on given inputs i.e, Total Sq.ft, location, number of bedrooms and bathrooms.
 Linear Regression Model is used to predict home prices.
 
-## technology and tools wise this project covers,
+## Methodology
+<ul>
+  <li>Data Cleaning</li>
+  <li>Feature Engineering</li>
+  <li>Outlier Removal</li>
+  <li>Model Building</li>
+  <li>Python Flask Server</li>
+ </ul> 
+
+## Technology and Tools wise this project covers,
 <ol>
   <li>Python</li>
   <li>Numpy and Pandas for Data Cleaning</li>
